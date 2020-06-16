@@ -1,0 +1,76 @@
+Author,Book,City,Chapter,Page,Location,Image,Context.esp,Context.eng,Latitude,Longitude,Characters,Reality,Category,Exactness,Structure type,Date in novel
+Riera,Vengare tu muerte,Barcelona,1,15,Casa de Montserrat,,"Donde vive Montserrat, la que encarga la investigación.  La novela dice que vive en el tercer piso; en realidad el edificio termina con el segundo piso.",,41.732309,1.823585,,Real,Víctima,1,Home,2010-11-12
+Riera,Vengare tu muerte,Barcelona,2,23,Casa de Elena Martínez,,"Vive aquí, en el número 30, en el barrio de Sarrià.",,41.398626,2.123273,,Real,Investigador,1,Home,2010-11-12
+Riera,Vengare tu muerte,Barcelona,2,24,Oficina de Solivellas,,"Lugar donde trabaja Solivellas. Elena camina desde su casa hasta aquí con su perro, bajando por la Vía Augusta",,41.395732,2.148967,,Real,Víctima,1,Business,2010-11-12
+Riera,Vengare tu muerte,Barcelona,2,26,Trayecto de Elena,,Elena y su perro encuentran a otro perro/amo mientras ella va caminando al trabajo de Solivellas,,41.398231,2.141741,,Real,Investigador,1,Exterior,2010-11-12
+Riera,Vengare tu muerte,Barcelona,2,28,Oficina de Solivellas,,"Lugar donde trabaja Solivellas. Elena camina desde su casa hasta aquí con su perro, bajando por la Vía Augusta",,41.395732,2.148967,,Real,Víctima,1,Business,2010-11-12
+Riera,Vengare tu muerte,Barcelona,2,29,Tívoli deli,,Elena compra la cena aquí después de visitar el trabajo de Solivellas,,41.398654,2.143498,,Real,Investigador,1,Bar Restaurant,2010-11-12
+Riera,Vengare tu muerte,Barcelona,3,31,Casa de Elena Martínez,,Vuelve a casa con la cena y con su amigo Jaume,,41.398626,2.123273,,Real,Investigador,1,Home,2010-11-12
+Riera,Vengare tu muerte,Barcelona,3,35,Carrer de Calvet,,"Elena y Jaume bajan esta calle en moto rumbo al bar ""el Sancho""",,41.395674,2.142306,,Real,Investigador,1,Exterior,2010-11-12
+Riera,Vengare tu muerte,Barcelona,3,36,Bar el Sancho,,Elena y Jaume preguntan al camarero si conoce al Solivellas. El bar queda al otro lado de la calle de su oficina; en realidad no existe,,41.395625,2.148813,,Fictional,Investigador,2,Bar Restaurant,2010-11-12
+Riera,Vengare tu muerte,Barcelona,4,39,Dry Martini Bar,,Elena y Jaume terminan la noche en este bar,,41.392655,2.154225,,Real,Investigador,1,Bar Restaurant,2010-11-12
+Riera,Vengare tu muerte,Barcelona,4,41,Parking privado,,Elena alquila un parking cerca de su piso,,41.40051,2.122792,,Real,Investigador,1,Transport,2010-11-13
+Riera,Vengare tu muerte,Barcelona,4,43,Casa de Montserrat,,"Elena va a su casa por primera vez. La novela dice que es un edificio de ""alto standing"", no lo parece en realidad",,41.732309,1.823585,,Real,Víctima,1,Home,2010-11-13
+Riera,Vengare tu muerte,Barcelona,5,49,Carretera BP-1417,,"Elena vuelve de Manresa a Barcelona por las carreteras antiguas, para ver si hay algún coche accidentado",,41.439098,2.101698,,Real,Investigador,1,Transport,2010-11-13
+Riera,Vengare tu muerte,Barcelona,5,49,Polígono Can Fava,,"Calle del lluç, núm 3. Lugar donde Jordi toca en el grupo ""The Sathanic's Terror"". El lugar no existe. Parece que están en Poblenou según el comentario en p. 56",,41.403224,2.202681,,Fictional,Víctima,5,Business,2010-11-13
+Riera,Vengare tu muerte,Barcelona,5,56,Polígono Can Fava,,"Calle del lluç, núm 3. Lugar donde Jordi toca en el grupo ""The Sathanic's Terror"". El lugar no existe. Parece que están en Poblenou según el comentario en p. 56",,41.403224,2.202681,,Fictional,Víctima,5,Business,2010-11-13
+Riera,Vengare tu muerte,Barcelona,5,57,Casa okupada,,"Jordi vive aquí, ubicación no exacta, la novela dice que es una calle sin salida detrás de Icaria, ""passatge Germinal"", que no existe. En mi opinión tendría que ser por esta zona de Icaria, la única con edificios ""okupables""",,41.394543,2.198621,,Fictional,Víctima,4,Home,2010-11-13
+Riera,Vengare tu muerte,Barcelona,6,58,Trayecto de Elena en moto,,Vuelve a casa después de averiguar donde vive Jordi,,41.391249,2.138756,,Real,Investigador,1,Transport,2010-11-13
+Riera,Vengare tu muerte,Barcelona,6,59,Parking privado,,Elena saca el coche para ir a la casa de Jordi,,41.40051,2.122792,,Real,Investigador,1,Transport,2010-11-14
+Riera,Vengare tu muerte,Barcelona,6,59,Casa okupada,,Elena aquí para hablar con Jordi,,41.394543,2.198621,,Fictional,Víctima,4,Home,2010-11-14
+Riera,Vengare tu muerte,Barcelona,6,63,Parking cerca de la oficina de Solivellas,,Elena viene en coche para investigar más,,41.395409,2.148433,,Real,Investigador,1,Transport,2010-11-14
+Riera,Vengare tu muerte,Barcelona,6,64,Piso del comisario Calvo en Sants,,"Elena cena con su amigo, el comisario Calvo, y su familia. No hay ubicación exacta",,41.375397,2.137145,,Fictional,Investigador,5,Home,2010-11-14
+Riera,Vengare tu muerte,Barcelona,7,66,Estación de Sants,,Elena se reune con Montserrat quien viene en tren. Irán las dos a Sitges,,41.37889,2.14021,,Real,Víctima,1,Transport,2010-11-15
+Riera,Vengare tu muerte,Barcelona,7,68,Piso de Montserrat en Sitges,,"Elena y Montserrat encuentran al Solivellas, muerto",,41.237302,1.821145,,Real,Dead Body,2,Home,2010-11-15
+Riera,Vengare tu muerte,Barcelona,7,70,Un banco al lado de la entrada del cementerio,,Elena lleva a Montserrat aquí mientras esperan la llegada de la ambulancia,,41.236846,1.817783,,Real,Víctima,1,Exterior,2010-11-15
+Riera,Vengare tu muerte,Barcelona,8,78,Funeral de Solivellas,,"Elena asiste al funeral, que tiene lugar 4 días después del descubrimiento de su cadaver.  Ubicación no específica, pero sí en Manresa.  Fecha no exacta",,41.724219,1.826682,,Real,Víctima,3,Monument,2010-11-20
+Riera,Vengare tu muerte,Barcelona,8,79,Hotel Sofia,,"Elena espía a un hombre de negocios para otro caso, recibe una llamada de Montserrat",,41.385894,2.123392,,Real,Investigador,1,Bar Restaurant,2010-11-22
+Riera,Vengare tu muerte,Barcelona,9,81,Casa de Montserrat,,Montserrat quiere contratar a Elena para seguir investigando el caso Solivellas,,41.732309,1.823585,,Real,Víctima,1,Home,2010-11-22
+Riera,Vengare tu muerte,Barcelona,10,88,"Calle Verdi, Gràcia",,Elena va a la casa de Mónica Ribó.  Ubicación no exacta.,,41.403962,2.156747,,Fictional,Sospechoso,4,Home,2010-11-23
+Riera,Vengare tu muerte,Barcelona,10,94,Cafetería del Círculo de Lectores (Random House),,Elena va andando desde Gràcia hasta aquí.  Ella y Jaume se preparan para ir al bar Sancho,,41.395745,2.148923,,Real,Investigador,1,Bar Restaurant,2010-11-23
+Riera,Vengare tu muerte,Barcelona,11,96,Bar el Sancho,,Elena y Jaume vuelven a entrevistarle al camarero,,41.395625,2.148813,,Fictional,Investigador,2,Bar Restaurant,2010-11-23
+Riera,Vengare tu muerte,Barcelona,11,99,Parada de autobuses Avinguda diagonal,,Elena vuelve a casa en autobús,,41.394279,2.150415,,Real,Investigador,1,Transport,2010-11-23
+Riera,Vengare tu muerte,Barcelona,11,99,Delegación publicitaria de La Vanguardia,,Elena aquí para obtener los datos sobre la esquela de los caganers.  La novela menciona que esta oficina ya no existe. Ubicación no exacta,,41.385663,2.167294,,Fictional,Investigador,3,Business,2010-11-24
+Riera,Vengare tu muerte,Barcelona,11,101,Registro de sociedades (Registro Mercantil de Barcelona),,"Elena busca más información sobre la sociedad de los caganers.  Aquí conoce a Matías, el que será su novio durante parte de la novela.",,41.367222,2.139289,,Real,Investigador,1,Municipal,2010-11-24
+Riera,Vengare tu muerte,Barcelona,12,104,Casa del señor Pujades,,Elena entrevista al mejor amigo de Solivellas,,41.56579,2.014416,,Real,Investigador,1,Home,2010-11-24
+Riera,Vengare tu muerte,Barcelona,13,111,Casa de Montserrat,,Elena encuentra a Montsina en el portal de la casa. Ha venido en coche desde Terrassa,,41.732309,1.823585,,Real,Víctima,1,Home,2010-11-24
+Riera,Vengare tu muerte,Barcelona,14,116,Taller de Juli Ramis,,"Elena le recoge para que pueda peritar la colección de caganers, no hay ubicación exacta",,41.3765,2.143682,,Fictional,Investigador,5,Business,2010-11-25
+Riera,Vengare tu muerte,Barcelona,14,117,Casa de Montserrat,,Juli averigua que los caganers son de poco valor,,41.732309,1.823585,,Real,Víctima,1,Home,2010-11-25
+Riera,Vengare tu muerte,Barcelona,14,121,Oficina de Holmes and Holmes,,Elena va a la oficina para coger otro caso,,41.391558,2.162883,,Fictional,Investigador,3,Business,2010-11-25
+Riera,Vengare tu muerte,Barcelona,15,125,Casa de Montserrat,,Elena aquí para abrir un sobre que llegó en nombre de Solivellas,,41.732309,1.823585,,Real,Víctima,1,Home,2010-11-26
+Riera,Vengare tu muerte,Barcelona,16,130,Casa de Elena Martínez,,Elena vuelve a casa en coche para ver los contenidos del CD que los chantajistas han mandado,,41.398626,2.123273,,Real,Investigador,1,Home,2010-11-26
+Riera,Vengare tu muerte,Barcelona,17,134,Calle Canet con Mayor de Sarrià,,Elena saca a su perro y lo deja suelto aquí en el tramo peatonal. Tiene un conflicto verbal con un vecino sobre el perro,,41.398214,2.122384,,Real,Investigador,1,Exterior,2010-11-26
+Riera,Vengare tu muerte,Barcelona,19,146,Casa de Montserrat,,Elena aquí para recoger el segundo CD,,41.732309,1.823585,,Real,Víctima,1,Home,2010-11-27
+Riera,Vengare tu muerte,Barcelona,20,151,"Carrer del Banys Nous, taller de Josep Turudí",,"Elena le lleva los caganers para ser evaluados por un experto. No hay ubicación exacta, va en taxi",,41.382389,2.1749,,Fictional,Investigador,4,Business,2010-11-27
+Riera,Vengare tu muerte,Barcelona,20,152,Terraza en Passeig de Joan de Borbó,,Elena come aquí con Josep. No menciona el restaurante exacto,,41.380031,2.187337,,Real,Investigador,5,Bar Restaurant,2010-11-27
+Riera,Vengare tu muerte,Barcelona,20,153,Basílica de Santa María del Mar,,Elena visita a la iglesia después de comer,,41.383751,2.182018,,Real,Investigador,1,Monument,2010-11-27
+Riera,Vengare tu muerte,Barcelona,21,155,Casa de Elena Martínez,,Elena vuelve a casa y sale a cenar con su novio,,41.398626,2.123273,,Real,Investigador,1,Home,2010-11-27
+Riera,Vengare tu muerte,Barcelona,21,155,Restaurante La Venta,,Elena cena aquí con Matías,,41.416158,2.131651,,Real,Investigador,1,Bar Restaurant,2010-11-27
+Riera,Vengare tu muerte,Barcelona,21,156,Casa de Matías en el Eixample,,"Elena pasa parte de la noche aquí, no hay ubicación exacta",,41.391163,2.160143,,Fictional,Investigador,5,Home,2010-11-27
+Riera,Vengare tu muerte,Barcelona,21,157,Casa de Elena Martínez,,"Elena vuelve a casa porque Matías ronca, encuentra a su perro muerto",,41.398626,2.123273,,Real,Dead Body,1,Home,2010-11-28
+Riera,Vengare tu muerte,Barcelona,22,165,Piso del comisario Calvo en Sants,,Elena come con ellos después de la muerte del perro,,41.375397,2.137145,,Fictional,Investigador,5,Home,2010-11-28
+Riera,Vengare tu muerte,Barcelona,23,170,"Pastelería La Confianza, Manresa",,"Elena va con el comisario Calvo para encontrar a Jordi.  La pastelería no existe, he usado uno real",,41.725675,1.823445,,Fictional,Investigador,4,Business,2010-11-28
+Riera,Vengare tu muerte,Barcelona,24,173,Piso del comisario Calvo en Sants,,Elena cena con ellos después de estar en Manresa,,41.375397,2.137145,,Fictional,Investigador,5,Home,2010-11-28
+Riera,Vengare tu muerte,Barcelona,24,173,Casa de Elena Martínez,,Vuelve muy tarde y Jaume le espera,,41.398626,2.123273,,Real,Investigador,1,Home,2010-11-28
+Riera,Vengare tu muerte,Barcelona,24,176,Plaza de Artós,,Elena espía al cubano para un caso secundario encargado de la agencia.,,41.395644,2.125676,,Real,Sospechoso,2,Exterior,2010-11-29
+Riera,Vengare tu muerte,Barcelona,24,177,Plaza de Joaquim Pena,,Elena espía al cubano que entra en un bar para desayunar aquí,,41.396668,2.128189,,Real,Sospechoso,2,Bar Restaurant,2010-11-29
+Riera,Vengare tu muerte,Barcelona,24,178,Estación del metro Sarriá,,"Elena le sigue al cubano, toma el tren, también para en un kiosco por el camino",,41.398577,2.12552,,Real,Sospechoso,1,Transport,2010-11-29
+Riera,Vengare tu muerte,Barcelona,24,178,Estación del metro Muntaner,,Elena y el cubano bajan aquí,,41.398394,2.142177,,Real,Sospechoso,1,Transport,2010-11-29
+Riera,Vengare tu muerte,Barcelona,24,178,Piso de la amante del cubano,,Elena deja al cubano aquí mientras pasa la mañana con su amante,,41.396752,2.145796,,Fictional,Sospechoso,3,Home,2010-11-29
+Riera,Vengare tu muerte,Barcelona,25,181,"Calle Verdi, Gràcia",,Elena va otra vez a la casa de Mónica Ribó.  Ubicación no exacta.,,41.403962,2.156747,,Fictional,Dead Body,4,Home,2010-11-29
+Riera,Vengare tu muerte,Barcelona,25,183,Estación del metro Tres Torres,,Elena y el comisario Calvo se reúnen aquí,,41.397825,2.130969,,Real,Investigador,1,Transport,2010-11-29
+Riera,Vengare tu muerte,Barcelona,26,185,Parking privado,,Elena saca el coche con el comisario Calvo para recoger a su perro muerto,,41.40051,2.122792,,Real,Investigador,1,Transport,2010-11-29
+Riera,Vengare tu muerte,Barcelona,26,187,Bosque cerca de la carretera de les Aigues,,Elena entierra a su perro aquí.  Ubicación no exacta,,41.420034,2.127267,,Fictional,Investigador,4,Exterior,2010-11-29
+Riera,Vengare tu muerte,Barcelona,26,190,Casa de Elena Martínez,,Elena vuelve a casa para ver qué hay en el segundo CD,,41.398626,2.123273,,Real,Investigador,1,Home,2010-11-29
+Riera,Vengare tu muerte,Barcelona,27,193,Casa de Montserrat,,"Elena viene en coche, es de noche",,41.732309,1.823585,,Real,Víctima,1,Home,2010-11-29
+Riera,Vengare tu muerte,Barcelona,28,198,Cafetería al lado de la casa de Montserrat,,Elena espera aquí después de discutir con Montserrat.  El lugar no existe,,41.732311,1.823662,,Fictional,Investigador,3,Bar Restaurant,2010-11-29
+Riera,Vengare tu muerte,Barcelona,28,198,Parking público,,Elena saca el coche para volver a casa. Ubicación no confirmada,,41.729371,1.824373,,Real,Investigador,2,Transport,2010-11-29
+Riera,Vengare tu muerte,Barcelona,28,200,Casa de Elena Martínez,,Elena vuelve a casa,,41.398626,2.123273,,Real,Investigador,1,Home,2010-11-29
+Riera,Vengare tu muerte,Barcelona,29,204,Oficina de Holmes and Holmes,,Elena hace un informe sobre el cubano,,41.391558,2.162883,,Fictional,Investigador,3,Business,2010-11-30
+Riera,Vengare tu muerte,Barcelona,29,205,"Oficina de Virginia, carrer Mandri",,Elena consulta a su amiga sobre las fotos de Liu. Ubicación no exacta,,41.402989,2.134112,,Fictional,Investigador,3,Business,2010-11-30
+Riera,Vengare tu muerte,Barcelona,30,212,Bar del Hotel Majestic,,Elena entrevista a Montsina aquí,,41.393385,2.163978,,Real,Investigador,1,Bar Restaurant,2010-12-1
+Riera,Vengare tu muerte,Barcelona,31,220,Casa okupada,,"Elena y Jaume van en moto a la casa, que había sido alojada",,41.394543,2.198621,,Fictional,Investigador,4,Home,2010-12-1
+Riera,Vengare tu muerte,Barcelona,31,220,Círculo de lectores,,"Jaume trabaja aquí, devuelven la moto",,41.395732,2.148967,,Real,Investigador,1,Business,2010-12-1
+Riera,Vengare tu muerte,Barcelona,32,222,Comisaría Mossos carrer Bolívia,,"Elena aquí para intentar entrevistarle con Jordi, arrestado después del desalojo de la casa okupada",,41.401272,2.189046,,Real,Investigador,1,Municipal,2010-12-1
+Riera,Vengare tu muerte,Barcelona,32,223,Casa de Elena,,"Elena va a casa en taxi para recoger los caganers, vuelve a la comisaría después",,41.398626,2.123273,,Real,Investigador,1,Home,2010-12-1
+Riera,Vengare tu muerte,Barcelona,32,223,Comisaría Mossos carrer Bolívia,,Elena vuelve para hablar con la policía,,41.401272,2.189046,,Real,Investigador,1,Municipal,2010-12-1
