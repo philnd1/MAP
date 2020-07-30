@@ -1,6 +1,6 @@
 Author,Book,City,Chapter,Page,Location,Image,Longitude,Latitude,Context.esp,Context.eng,Characters,Reality,Category,Structure type,Exactness
 Antonio Mercero,El final del hombre,Madrid,1,,"Casa de los Bálmez, Colonia del Manzanares",,-3.735176,40.430179,"La noche de San Isidro, Mara es testigo de la violencia doméstica habitual de su padre",,,Fictional,Sospechoso,Home,3
-Antonio Mercero,El final del hombre,Madrid,1,,"Casa de los Senovilla, Colonia del Manzanares",,-3.735052,40.430239,Mara le encuentra a Jon muerto con un cuchillo en el abdomen.  Vive al lado de los Senovilla,,,Fictional,Dead Body,Home,3
+Antonio Mercero,El final del hombre,Madrid,1,,"Casa de los Senovilla, Colonia del Manzanares",,-3.735052,40.430239,Mara le encuentra a Jon muerto con un cuchillo en el abdomen.  Vive al lado de los Senovilla,,,Fictional,Cuerpo,Home,3
 Antonio Mercero,El final del hombre,Madrid,2,,"Casa de los Senovilla, Colonia del Manzanares",,-3.735052,40.430239,Los investigadores llegan para el día después,,,Fictional,Víctima,Home,3
 Antonio Mercero,El final del hombre,Madrid,4,,"Casa de los Senovilla, Colonia del Manzanares",,-3.735052,40.430239,"Sofía llega, ya tiene el DNI de mujer, pero lleva ropa de hombre",,,Fictional,Víctima,Home,3
 Antonio Mercero,El final del hombre,Madrid,5,,Instituto Anatómico Forense,,-3.722783,40.443781,Para analizar el cuerpo de Jon.  Su padre Julio le reconoce.,,,Real,Investigador,Municipal,1
@@ -49,7 +49,7 @@ Antonio Mercero,El final del hombre,Madrid,32,,"Exterior de la facultad de Histo
 Antonio Mercero,El final del hombre,Madrid,33,,Casa de Sofía,,-3.694945,40.423065,Sofía le invita a Suni para hacer el Tarot,,,Fictional,Investigador,Home,3
 Antonio Mercero,El final del hombre,Madrid,34,,El castillo de Benagues de los Crory ,,-3.933683,39.90978,Narración de Raimundo. (ubicación no exacta),,,Fictional,Sospechoso,Home,5
 Antonio Mercero,El final del hombre,Madrid,35,,Casa de Sofía,,-3.694945,40.423065,Sofía recibe la llamada sobre la muerte de Pablo,,,Fictional,Investigador,Home,3
-Antonio Mercero,El final del hombre,Madrid,35,,Parking de la consulta de Pablo Senovilla en Chamberí,,-3.693852,40.430613,Se encuentra a Pablo muerto en su coche,,,Fictional,Dead Body,Exterior,3
+Antonio Mercero,El final del hombre,Madrid,35,,Parking de la consulta de Pablo Senovilla en Chamberí,,-3.693852,40.430613,Se encuentra a Pablo muerto en su coche,,,Fictional,Cuerpo,Exterior,3
 Antonio Mercero,El final del hombre,Madrid,36,,"Casa de los Senovilla, Colonia del Manzanares",,-3.735052,40.430239,Sofía habla con Suni,,,Fictional,Víctima,Home,3
 Antonio Mercero,El final del hombre,Madrid,37,,Brigada de la Policía Judicial,,-3.712364,40.451962,,,,Real,Investigador,Municipal,1
 Antonio Mercero,El final del hombre,Madrid,38,,"Fanaso, negocio de Nico, exnovia de Patricia Crory",,-3.784724,40.447855,Sofía le entrevista a Nico,,,Fictional,Sospechoso,Business,3
