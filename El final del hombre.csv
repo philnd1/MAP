@@ -1,0 +1,87 @@
+Author,Book,City,Chapter,Page,Location,Image,Longitude,Latitude,Context.esp,Context.eng,Characters,Reality,Category,Structure type,Exactness
+Antonio Mercero,El final del hombre,Madrid,1,,"Casa de los Bálmez, Colonia del Manzanares",,-3.735176,40.430179,"La noche de San Isidro, Mara es testigo de la violencia doméstica habitual de su padre",,,Fictional,Sospechoso,Home,3
+Antonio Mercero,El final del hombre,Madrid,1,,"Casa de los Senovilla, Colonia del Manzanares",,-3.735052,40.430239,Mara le encuentra a Jon muerto con un cuchillo en el abdomen.  Vive al lado de los Senovilla,,,Fictional,Dead Body,Home,3
+Antonio Mercero,El final del hombre,Madrid,2,,"Casa de los Senovilla, Colonia del Manzanares",,-3.735052,40.430239,Los investigadores llegan para el día después,,,Fictional,Víctima,Home,3
+Antonio Mercero,El final del hombre,Madrid,4,,"Casa de los Senovilla, Colonia del Manzanares",,-3.735052,40.430239,"Sofía llega, ya tiene el DNI de mujer, pero lleva ropa de hombre",,,Fictional,Víctima,Home,3
+Antonio Mercero,El final del hombre,Madrid,5,,Instituto Anatómico Forense,,-3.722783,40.443781,Para analizar el cuerpo de Jon.  Su padre Julio le reconoce.,,,Real,Investigador,Municipal,1
+Antonio Mercero,El final del hombre,Madrid,5,,Brigada de la Policía Judicial,,-3.712364,40.451962,Laura y Sofía llegan para seguir investigando,,,Real,Investigador,Municipal,1
+Antonio Mercero,El final del hombre,Madrid,7,,Pizzería Bambino ,,-3.674627,40.448643,"Sofía y su hijo cenan aquí. (ficticio, sin indicaciones, ubicación de una pizzería cerca de la casa de Natalia)",,,Fictional,Descanso,Bar Restaurant,5
+Antonio Mercero,El final del hombre,Madrid,8,,Casa de Sofía,,-3.694945,40.423065,Elige su ropa de mujer para su primer día vestida de mujer,,,Fictional,Investigador,Home,3
+Antonio Mercero,El final del hombre,Madrid,8,,Brigada de la Policía Judicial,,-3.712364,40.451962,Sofía entra en el trabajo vestida de mujer por primera vez,,,Real,Investigador,Municipal,1
+Antonio Mercero,El final del hombre,Madrid,9,,"Casa de los Senovilla, Colonia del Manzanares",,-3.735052,40.430239,"Narración de Rosa, habla con Julio",,,Fictional,Víctima,Home,3
+Antonio Mercero,El final del hombre,Madrid,10,,Consulta de Pablo Senovilla en Chamberí,,-3.693852,40.430613,El hijo mayor de Senovilla trabaja aquí,,,Fictional,Sospechoso,Business,3
+Antonio Mercero,El final del hombre,Madrid,11,,"Cigarral de Raimundo Crory, afueras de Toledo",,-4.033151,39.847814,Sofía entrevista a Raimundo como coartada de Senovilla,,,Fictional,Sospechoso,Home,5
+Antonio Mercero,El final del hombre,Madrid,12,,Trayecto Toledo-Madrid en coche,,-3.817446,40.162829,Sofía vuelve a Madrid,,,Real,Investigador,Transport,1
+Antonio Mercero,El final del hombre,Madrid,12,,"Casa de los Bálmez, Colonia del Manzanares",,-3.735176,40.430179,Sofía intenta hablar con Alejandra y Mara,,,Fictional,Sospechoso,Home,3
+Antonio Mercero,El final del hombre,Madrid,12,,Hospital donde le operaron a Rosa.,,-3.734617,40.433011,"Sofía entrevista a una enfermera.  No hay ubicación exacta, es el hospital más cercano (pero privado)",,,Real,Sospechoso,Municipal,4
+Antonio Mercero,El final del hombre,Madrid,13,,Brigada de la Policía Judicial,,-3.712364,40.451962,Otra entrevista con Julio en la brigada,,,Real,Investigador,Municipal,1
+Antonio Mercero,El final del hombre,Madrid,14,,"Despacho de Blas Hermida, catedrático de Historia Medieval",,-3.734673,40.449149,"Estévez le entrevista sobre Senovilla, que antes era profesor",,,Fictional,Sospechoso,Municipal,1
+Antonio Mercero,El final del hombre,Madrid,15,,Brigada de la Policía Judicial,,-3.712364,40.451962,,,,Real,Investigador,Municipal,1
+Antonio Mercero,El final del hombre,Madrid,16,,"Casa de los Senovilla, Colonia del Manzanares",,-3.735052,40.430239,"Mara viene y cena con Suni, la criada",,,Fictional,Víctima,Home,3
+Antonio Mercero,El final del hombre,Madrid,17,,Brigada de la Policía Judicial,,-3.712364,40.451962,,,,Real,Investigador,Municipal,1
+Antonio Mercero,El final del hombre,Madrid,17,,Casa de Sofía,,-3.694945,40.423065,Laura tiene una copia de llaves y le estaba esperando,,,Fictional,Investigador,Home,3
+Antonio Mercero,El final del hombre,Madrid,18,,Cafetería Santander,https://goo.gl/maps/PeHEp6rXyHz8zSRo8,-3.696369,40.427442,"Entrevista con la madre de John, Arancha",,,Real,Investigador,Bar Restaurant,1
+Antonio Mercero,El final del hombre,Madrid,18,,Cementerio,,-3.643308,40.421293,Entierro de Jon.  Ubicación no exacta,,,Real,Víctima,Municipal,3
+Antonio Mercero,El final del hombre,Madrid,19,,"Casa de los Bálmez, Colonia del Manzanares",,-3.735176,40.430179,Estévez le entrevista a Alejandra,,,Fictional,Sospechoso,Home,3
+Antonio Mercero,El final del hombre,Madrid,20,,Casa de Sofía,,-3.694945,40.423065,Sofía se prepara para cenar con su familia y decirle a su hijo la verdad,,,Fictional,Investigador,Home,3
+Antonio Mercero,El final del hombre,Madrid,20,,Un restaurante,,,,Sofía le cuenta a su hijo que es transsexual,,,Fictional,Descanso,Bar Restaurant,5
+Antonio Mercero,El final del hombre,Madrid,21,,"Casa de los Bálmez, Colonia del Manzanares",,-3.735176,40.430179,Sofia le entrevista a Alejandra otra vez. También habla con Mara,,,Fictional,Sospechoso,Home,3
+Antonio Mercero,El final del hombre,Madrid,21,,Casa de Sofía,,-3.694945,40.423065,Sigue trabajando por teléfono,,,Fictional,Investigador,Home,3
+Antonio Mercero,El final del hombre,Madrid,22,,Plaza dos de Mayo,,-3.704088,40.426945,Alejandra asiste a un botellón con sus amigas,,,Real,Sospechoso,Exterior,1
+Antonio Mercero,El final del hombre,Madrid,22,,Cerca de Metro Tribunal,,-3.701207,40.426088,"Alejandra se encuentra con León, novio de su amiga",,,Real,Sospechoso,Transport,1
+Antonio Mercero,El final del hombre,Madrid,22,,Un bar de la Corredera Alta de San Pablo,,-3.701758,40.426178,"Alejandra y León charlan en el bar, luego León la asalta y la viola en el baño",,,Fictional,Sospechoso,Bar Restaurant,3
+Antonio Mercero,El final del hombre,Madrid,23,,Brigada de la Policía Judicial,,-3.712364,40.451962,,,,Real,Investigador,Municipal,1
+Antonio Mercero,El final del hombre,Madrid,24,,Brigada de la Policía Judicial,,-3.712364,40.451962,El padre de Alejandra y Mara viene a la brigada para defenderse de acusaciones de malos tratos,,,Real,Investigador,Municipal,1
+Antonio Mercero,El final del hombre,Madrid,25,,"Cigarral de Raimundo Crory, afueras de Toledo",,-4.033151,39.847814,"Sofía le entrevista a Elvira, mujer de Raimundo",,,Fictional,Sospechoso,Home,5
+Antonio Mercero,El final del hombre,Madrid,25,,Parking cerca de la Ribera del Manzanares,,-3.734198,40.43028,Sofía lee el periódico que habla del policía transexual,,,Real,Investigador,Exterior,1
+Antonio Mercero,El final del hombre,Madrid,25,,"Casa de los Senovilla, Colonia del Manzanares",,-3.735052,40.430239,"Sofía charla con Rosa, Julio está escribiendo",,,Fictional,Víctima,Home,3
+Antonio Mercero,El final del hombre,Madrid,26,,Brigada de la Policía Judicial,,-3.712364,40.451962,El comisario Arnedo habla con todo el equipo sobre sus problemas legales de otro caso de corrupción,,,Real,Investigador,Municipal,1
+Antonio Mercero,El final del hombre,Madrid,27,,"Exterior de la facultad de Historia, la Complutense",,-3.734197,40.448597,"Estévez y Bárbara hacen la vigilancia de Alejandra, que se encuentra dentro estudiando",,,Real,Investigador,Exterior,2
+Antonio Mercero,El final del hombre,Madrid,28,,"Despacho de Blas Hermida, catedrático de Historia Medieval",,-3.734673,40.449149,Sofía habla con Blas sobre el arma del crimen,,,Fictional,Sospechoso,Municipal,3
+Antonio Mercero,El final del hombre,Madrid,28,,Brigada de la Policía Judicial,,-3.712364,40.451962,,,,Real,Investigador,Municipal,1
+Antonio Mercero,El final del hombre,Madrid,29,,Consulta de Pablo Senovilla en Chamberí,,-3.693852,40.430613,Laura y Sofía aquí para entrevistar a las enfermeras,,,Fictional,Sospechoso,Business,3
+Antonio Mercero,El final del hombre,Madrid,29,,Casa de Pablo Senovilla ,,-3.669662,40.479992,Laura y Sofía aquí para hablar con él. (ubicación no exacta),,,Fictional,Sospechoso,Home,5
+Antonio Mercero,El final del hombre,Madrid,29,,Pub el Richelieu (paseo Eduardo Dato),https://goo.gl/maps/1Pee6ExFqNRD334h6,-3.694476,40.432942,Sofía y Natalia toman una copa,,,Real,Descanso,Bar Restaurant,1
+Antonio Mercero,El final del hombre,Madrid,30,,El castillo de Benagues de los Crory,,-3.933683,39.90978,"Sofía habla con Patricia, hija de los Crory. (ubicación no exacta)",,,Fictional,Sospechoso,Home,5
+Antonio Mercero,El final del hombre,Madrid,31,,"Casa de los Senovilla, Colonia del Manzanares",,-3.735052,40.430239,Sofía le entrevista a Julio,,,Fictional,Víctima,Home,3
+Antonio Mercero,El final del hombre,Madrid,32,,Casa de Estévez,,,,Estévez con su padre enfermo,,,Fictional,Investigador,Home,3
+Antonio Mercero,El final del hombre,Madrid,32,,"Exterior de la facultad de Historia, la Complutense",,-3.734197,40.448597,"Estévez y Bárbara hacen la vigilancia de Alejandra, esta vez recogen pruebas",,,Real,Investigador,Exterior,2
+Antonio Mercero,El final del hombre,Madrid,33,,Casa de Sofía,,-3.694945,40.423065,Sofía le invita a Suni para hacer el Tarot,,,Fictional,Investigador,Home,3
+Antonio Mercero,El final del hombre,Madrid,34,,El castillo de Benagues de los Crory ,,-3.933683,39.90978,Narración de Raimundo. (ubicación no exacta),,,Fictional,Sospechoso,Home,5
+Antonio Mercero,El final del hombre,Madrid,35,,Casa de Sofía,,-3.694945,40.423065,Sofía recibe la llamada sobre la muerte de Pablo,,,Fictional,Investigador,Home,3
+Antonio Mercero,El final del hombre,Madrid,35,,Parking de la consulta de Pablo Senovilla en Chamberí,,-3.693852,40.430613,Se encuentra a Pablo muerto en su coche,,,Fictional,Dead Body,Exterior,3
+Antonio Mercero,El final del hombre,Madrid,36,,"Casa de los Senovilla, Colonia del Manzanares",,-3.735052,40.430239,Sofía habla con Suni,,,Fictional,Víctima,Home,3
+Antonio Mercero,El final del hombre,Madrid,37,,Brigada de la Policía Judicial,,-3.712364,40.451962,,,,Real,Investigador,Municipal,1
+Antonio Mercero,El final del hombre,Madrid,38,,"Fanaso, negocio de Nico, exnovia de Patricia Crory",,-3.784724,40.447855,Sofía le entrevista a Nico,,,Fictional,Sospechoso,Business,3
+Antonio Mercero,El final del hombre,Madrid,38,,Exterior del negocio de Nico en Aravaca,,-3.783979,40.447989,Sigue la entrevista de Nico por Sofía,,,Fictional,Sospechoso,Exterior,5
+Antonio Mercero,El final del hombre,Madrid,39,,"Piso de Berta, enfermera de Pablo",,-3.710999,40.410407,Laura le entrevista sobre el tema de las recetas médicas falsas de Jon. Ubicación no exacta,,,Fictional,Sospechoso,Home,5
+Antonio Mercero,El final del hombre,Madrid,39,,Casa de Pablo Senovilla ,,-3.669662,40.479992,"Laura intenta entrevistarle a Carmen, viuda de Pablo. (ubicación no exacta)",,,Fictional,Víctima,Home,3
+Antonio Mercero,El final del hombre,Madrid,39,,Bar de la calle Zurbano,,-3.693539,40.430063,Laura echa un vistazo al bar donde Pablo solía tomar unas cañas despues de trabajar,,,Fictional,Víctima,Bar Restaurant,5
+Antonio Mercero,El final del hombre,Madrid,39,,El corte inglés,,-3.687312,40.430207,Laura recupera el móvil de Jon,,,Real,Investigador,Business,3
+Antonio Mercero,El final del hombre,Madrid,40,,Brigada de la Policía Judicial,,-3.712364,40.451962,Detención de Nico,,,Real,Investigador,Municipal,1
+Antonio Mercero,El final del hombre,Madrid,41,,Casa de Blas Hermida,,,,"Estévez vigila al profesor, quien sale de casa en su coche",,,Fictional,Sospechoso,Home,5
+Antonio Mercero,El final del hombre,Madrid,41,,"Parking de la facultad de Historia, la Complutense",,-3.734197,40.448597,Estévez intenta charlar con Blas Hermida,,,Real,Sospechoso,Exterior,2
+Antonio Mercero,El final del hombre,Madrid,41,,Brigada de la Policía Judicial,,-3.712364,40.451962,Alejandra le está esperando a Estévez,,,Real,Investigador,Municipal,1
+Antonio Mercero,El final del hombre,Madrid,42,,"Consulta del doctor Coll, psicólogo de Luna",,,,Luna aquí para una consulta,,,Fictional,Investigador,Business,3
+Antonio Mercero,El final del hombre,Madrid,42,,Casa de Sofía,,-3.694945,40.423065,Luna decide ir al cumpleaños de su hijo en casa de su expareja,,,Fictional,Investigador,Home,3
+Antonio Mercero,El final del hombre,Madrid,42,,Casa de Natalia,,-3.681323,40.457392,Luna llega a la fiesta de cumpleaños,,,Fictional,Descanso,Home,5
+Antonio Mercero,El final del hombre,Madrid,42,,Exterior de la casa de Sofía,,-3.694945,40.423069,"Luna es atacada por Nico y sus amigos, intenta defenderse",,,Fictional,Investigador,Exterior,3
+Antonio Mercero,El final del hombre,Madrid,43,,"Casa de los Senovilla, Colonia del Manzanares",,-3.735052,40.430239,"Suni le prepara la cena a Mara, luego viene Laura",,,Fictional,Víctima,Home,3
+Antonio Mercero,El final del hombre,Madrid,43,,Casa de Sofía,,-3.694945,40.423065,Laura viene y descubre a Sofía malherida,,,Fictional,Investigador,Home,3
+Antonio Mercero,El final del hombre,Madrid,44,,Brigada de la Policía Judicial,,-3.712364,40.451962,Sofía explica que fue atacada.  Nico le denuncia y Sofía queda apartada del caso,,,Real,Investigador,Municipal,1
+Antonio Mercero,El final del hombre,Madrid,44,,Hospital,,-3.719161,40.438719,Sofía va para hacerse radiografías. Posiblemente el hospital público más cercano,,,Fictional,Investigador,Municipal,3
+Antonio Mercero,El final del hombre,Madrid,45,,"Casa de los Bálmez, Colonia del Manzanares",,-3.735176,40.430179,Desde la perspectiva de Mara.  Su madre intenta suicidarse.  Luego llegan Estévez y Bárbara,,,Fictional,Sospechoso,Home,3
+Antonio Mercero,El final del hombre,Madrid,45,,Hospital,,-3.719161,40.438719,Ingresan a Adela después de su intento de suicidarse.  Es el hospital público más cercano a su casa.,,,Fictional,Investigador,Municipal,3
+Antonio Mercero,El final del hombre,Madrid,46,,"Facultad de Historia, la Complutense",,-3.734673,40.449149,Estévez le interroga a Blas Hermida,,,Real,Sospechoso,Municipal,3
+Antonio Mercero,El final del hombre,Madrid,47,,Brigada de la Policía Judicial,,-3.712364,40.451962,,,,Real,Investigador,Municipal,1
+Antonio Mercero,El final del hombre,Madrid,48,,Casa de Sofía,,-3.694945,40.423065,Mara le llama a Sofia pidiendo ayuda,,,Fictional,Investigador,Home,3
+Antonio Mercero,El final del hombre,Madrid,48,,"Casa de los Bálmez, Colonia del Manzanares",,-3.735176,40.430179,Sofía le recoge a Mara en coche,,,Fictional,Sospechoso,Home,3
+Antonio Mercero,El final del hombre,Madrid,48,,VIPS de Príncipe Pío,,-3.720243,40.421987,Sofía y Mara meriendan aquí,,,Real,Descanso,Bar Restaurant,1
+Antonio Mercero,El final del hombre,Madrid,48,,"Casa de los Senovilla, Colonia del Manzanares",,-3.735052,40.430239,Sofía deja a Mara con Suni,,,Fictional,Víctima,Home,3
+Antonio Mercero,El final del hombre,Madrid,49,,"Cigarral de Raimundo Crory, afueras de Toledo",,-4.033151,39.847814,Sofía viene para localizar a Julio,,,Fictional,Sospechoso,Home,5
+Antonio Mercero,El final del hombre,Madrid,49,,Exterior de la calle principal de Olías,,-3.988404,39.944829,Sofía localiza a Julio en un bar del pueblo,,,Real,Sospechoso,Exterior,4
+Antonio Mercero,El final del hombre,Madrid,49,,El castillo de Benagues de los Crory,,-3.933683,39.90978,Sofía aquí para hablar con Patricia. Ubicación no exacta,,,Fictional,Sospechoso,Home,5
+Antonio Mercero,El final del hombre,Madrid,50,,Brigada de la Policía Judicial,,-3.712364,40.451962,,,,Real,Investigador,Municipal,1
+Antonio Mercero,El final del hombre,Madrid,50,,Casa de Sofía,,-3.694945,40.423065,Rosa le ataca a Sofía con un cuchillo.  Laura llega justo a tiempo,,,Fictional,Investigador,Home,3
+Antonio Mercero,El final del hombre,Madrid,51,,Brigada de la Policía Judicial,,-3.712364,40.451962,Rosa declara en la Brigada,,,Real,Investigador,Municipal,1
+Antonio Mercero,El final del hombre,Madrid,51,,Casa de Sofía,,-3.694945,40.423065,Dani visita a Sofía en su casa,,,Fictional,Investigador,Home,3
