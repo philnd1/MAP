@@ -21,7 +21,7 @@ Riera,Vengare tu muerte,Barcelona,6,59,Casa okupada,,2.198621,41.394543,Elena aq
 Riera,Vengare tu muerte,Barcelona,6,63,Parking cerca de la oficina de Solivellas,,2.148433,41.395409,Elena viene en coche para investigar más,,,Real,Investigador,Transport,1
 Riera,Vengare tu muerte,Barcelona,6,64,Piso del comisario Calvo en Sants,,2.137145,41.375397,"Elena cena con su amigo, el comisario Calvo, y su familia. No hay ubicación exacta",,,Fictional,Investigador,Home,5
 Riera,Vengare tu muerte,Barcelona,7,66,Estación de Sants,,2.14021,41.37889,Elena se reune con Montserrat quien viene en tren. Irán las dos a Sitges,,,Real,Víctima,Transport,1
-Riera,Vengare tu muerte,Barcelona,7,68,Piso de Montserrat en Sitges,,1.821145,41.237302,"Elena y Montserrat encuentran al Solivellas, muerto",,,Real,Dead Body,Home,2
+Riera,Vengare tu muerte,Barcelona,7,68,Piso de Montserrat en Sitges,,1.821145,41.237302,"Elena y Montserrat encuentran al Solivellas, muerto",,,Real,Cuerpo,Home,2
 Riera,Vengare tu muerte,Barcelona,7,70,Un banco al lado de la entrada del cementerio,,1.817783,41.236846,Elena lleva a Montserrat aquí mientras esperan la llegada de la ambulancia,,,Real,Víctima,Exterior,1
 Riera,Vengare tu muerte,Barcelona,8,78,Funeral de Solivellas,,1.826682,41.724219,"Elena asiste al funeral, que tiene lugar 4 días después del descubrimiento de su cadaver.  Ubicación no específica, pero sí en Manresa.  Fecha no exacta",,,Real,Víctima,Monument,3
 Riera,Vengare tu muerte,Barcelona,8,79,Hotel Sofia,,2.123392,41.385894,"Elena espía a un hombre de negocios para otro caso, recibe una llamada de Montserrat",,,Real,Investigador,Bar Restaurant,1
@@ -47,7 +47,7 @@ Riera,Vengare tu muerte,Barcelona,20,153,Basílica de Santa María del Mar,,2.18
 Riera,Vengare tu muerte,Barcelona,21,155,Casa de Elena Martínez,,2.123273,41.398626,Elena vuelve a casa y sale a cenar con su novio,,,Real,Investigador,Home,1
 Riera,Vengare tu muerte,Barcelona,21,155,Restaurante La Venta,,2.131651,41.416158,Elena cena aquí con Matías,,,Real,Investigador,Bar Restaurant,1
 Riera,Vengare tu muerte,Barcelona,21,156,Casa de Matías en el Eixample,,2.160143,41.391163,"Elena pasa parte de la noche aquí, no hay ubicación exacta",,,Fictional,Investigador,Home,5
-Riera,Vengare tu muerte,Barcelona,21,157,Casa de Elena Martínez,,2.123273,41.398626,"Elena vuelve a casa porque Matías ronca, encuentra a su perro muerto",,,Real,Dead Body,Home,1
+Riera,Vengare tu muerte,Barcelona,21,157,Casa de Elena Martínez,,2.123273,41.398626,"Elena vuelve a casa porque Matías ronca, encuentra a su perro muerto",,,Real,Cuerpo,Home,1
 Riera,Vengare tu muerte,Barcelona,22,165,Piso del comisario Calvo en Sants,,2.137145,41.375397,Elena come con ellos después de la muerte del perro,,,Fictional,Investigador,Home,5
 Riera,Vengare tu muerte,Barcelona,23,170,"Pastelería La Confianza, Manresa",,1.823445,41.725675,"Elena va con el comisario Calvo para encontrar a Jordi.  La pastelería no existe, he usado uno real",,,Fictional,Investigador,Business,4
 Riera,Vengare tu muerte,Barcelona,24,173,Piso del comisario Calvo en Sants,,2.137145,41.375397,Elena cena con ellos después de estar en Manresa,,,Fictional,Investigador,Home,5
@@ -57,7 +57,7 @@ Riera,Vengare tu muerte,Barcelona,24,177,Plaza de Joaquim Pena,,2.128189,41.3966
 Riera,Vengare tu muerte,Barcelona,24,178,Estación del metro Sarriá,,2.12552,41.398577,"Elena le sigue al cubano, toma el tren, también para en un kiosco por el camino",,,Real,Sospechoso,Transport,1
 Riera,Vengare tu muerte,Barcelona,24,178,Estación del metro Muntaner,,2.142177,41.398394,Elena y el cubano bajan aquí,,,Real,Sospechoso,Transport,1
 Riera,Vengare tu muerte,Barcelona,24,178,Piso de la amante del cubano,,2.145796,41.396752,Elena deja al cubano aquí mientras pasa la mañana con su amante,,,Fictional,Sospechoso,Home,3
-Riera,Vengare tu muerte,Barcelona,25,181,"Calle Verdi, Gràcia",,2.156747,41.403962,Elena va otra vez a la casa de Mónica Ribó.  Ubicación no exacta.,,,Fictional,Dead Body,Home,4
+Riera,Vengare tu muerte,Barcelona,25,181,"Calle Verdi, Gràcia",,2.156747,41.403962,Elena va otra vez a la casa de Mónica Ribó.  Ubicación no exacta.,,,Fictional,Cuerpo,Home,4
 Riera,Vengare tu muerte,Barcelona,25,183,Estación del metro Tres Torres,,2.130969,41.397825,Elena y el comisario Calvo se reúnen aquí,,,Real,Investigador,Transport,1
 Riera,Vengare tu muerte,Barcelona,26,185,Parking privado,,2.122792,41.40051,Elena saca el coche con el comisario Calvo para recoger a su perro muerto,,,Real,Investigador,Transport,1
 Riera,Vengare tu muerte,Barcelona,26,187,Bosque cerca de la carretera de les Aigues,,2.127267,41.420034,Elena entierra a su perro aquí.  Ubicación no exacta,,,Fictional,Investigador,Exterior,4
